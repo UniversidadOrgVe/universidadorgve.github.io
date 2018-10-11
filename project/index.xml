@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on universidad.org.ve</title>
+    <link>https://universidadorgve.github.io/project/</link>
+    <description>Recent content in Projects on universidad.org.ve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 [Juan Lezama](https://twitter.com/juanlezama)</copyright>
+    <lastBuildDate>Tue, 09 Oct 2018 14:50:39 -0400</lastBuildDate>
+    
+	<atom:link href="https://universidadorgve.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Investigación De Operaciones I</title>
+      <link>https://universidadorgve.github.io/project/operational-research/</link>
+      <pubDate>Tue, 09 Oct 2018 14:50:39 -0400</pubDate>
+      
+      <guid>https://universidadorgve.github.io/project/operational-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matemática I</title>
+      <link>https://universidadorgve.github.io/project/mathematics-i-/</link>
+      <pubDate>Tue, 09 Oct 2018 14:50:14 -0400</pubDate>
+      
+      <guid>https://universidadorgve.github.io/project/mathematics-i-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ética</title>
+      <link>https://universidadorgve.github.io/project/ethics/</link>
+      <pubDate>Tue, 09 Oct 2018 14:49:51 -0400</pubDate>
+      
+      <guid>https://universidadorgve.github.io/project/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inglés</title>
+      <link>https://universidadorgve.github.io/project/english/</link>
+      <pubDate>Tue, 09 Oct 2018 14:49:27 -0400</pubDate>
+      
+      <guid>https://universidadorgve.github.io/project/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>https://universidadorgve.github.io/project/latex/</link>
+      <pubDate>Tue, 09 Oct 2018 13:59:30 -0400</pubDate>
+      
+      <guid>https://universidadorgve.github.io/project/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>https://universidadorgve.github.io/project/git/</link>
+      <pubDate>Tue, 09 Oct 2018 13:59:17 -0400</pubDate>
+      
+      <guid>https://universidadorgve.github.io/project/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim</title>
+      <link>https://universidadorgve.github.io/project/vim/</link>
+      <pubDate>Tue, 09 Oct 2018 13:59:06 -0400</pubDate>
+      
+      <guid>https://universidadorgve.github.io/project/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archlinux</title>
+      <link>https://universidadorgve.github.io/project/gnu/</link>
+      <pubDate>Tue, 09 Oct 2018 13:58:47 -0400</pubDate>
+      
+      <guid>https://universidadorgve.github.io/project/gnu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archlinux</title>
+      <link>https://universidadorgve.github.io/project/linux/</link>
+      <pubDate>Tue, 09 Oct 2018 13:58:47 -0400</pubDate>
+      
+      <guid>https://universidadorgve.github.io/project/linux/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

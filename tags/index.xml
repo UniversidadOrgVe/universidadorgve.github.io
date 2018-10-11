@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on universidad.org.ve</title>
+    <link>https://universidadorgve.github.io/tags/</link>
+    <description>Recent content in Tags on universidad.org.ve</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 [Juan Lezama](https://twitter.com/juanlezama)</copyright>
+    <lastBuildDate>Wed, 10 Oct 2018 13:32:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://universidadorgve.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>English</title>
+      <link>https://universidadorgve.github.io/tags/english/</link>
+      <pubDate>Wed, 10 Oct 2018 13:32:59 -0400</pubDate>
+      
+      <guid>https://universidadorgve.github.io/tags/english/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
